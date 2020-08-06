@@ -57,7 +57,10 @@ public class TestaMes {
         default:
             System.out.println("Mês inválido");
             break;
-			
+            			
         }
+        
+        input.close();
+
 	}
 }
