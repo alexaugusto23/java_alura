@@ -1,5 +1,5 @@
 <p align="center">
-  <img width="360" height="300" src="">
+  <img width="360" height="300" src="https://github.com/alexaugusto23/java_alura/blob/master/img/logo%20java.gif">
 </p>
 
 
