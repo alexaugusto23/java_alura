@@ -12,8 +12,7 @@ public class TestaWhile {
 			//contador = contador + 1;
 			++contador;
 			
-			}
-			System.out.println(contador);
+		}
+		System.out.println(contador);
 	}
-
 }
