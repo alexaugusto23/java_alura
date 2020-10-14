@@ -1,0 +1,7 @@
+public class TestaMetodos {
+	public static void main(String[] args) {
+		Conta contaDoPaulo = new Conta();
+		
+	} 
+
+}
