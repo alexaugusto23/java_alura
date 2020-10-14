@@ -1,0 +1,27 @@
+public class CriaConta {
+	public static void main(String[] args) {
+		Conta primeiraConta = new Conta();
+		primeiraConta.saldo = 200;
+		primeiraConta.agencia = 0001;
+		primeiraConta.numero = 00001;
+		primeiraConta.titular = "Alex";
+		System.out.println("Endereço de mémoria: " + primeiraConta);
+		System.out.println("Titular: " + primeiraConta.titular);
+		System.out.println("Agência: " + primeiraConta.agencia);
+		System.out.println("Numero: " + primeiraConta.numero);
+		System.out.println("Saldo: " + primeiraConta.saldo);
+		primeiraConta.saldo += 100;
+		System.out.println("Saldo: " + primeiraConta.saldo);
+		Conta segundaConta = new Conta();
+		segundaConta.saldo = 25400;
+		segundaConta.agencia = 0002;
+		segundaConta.numero = 00002
+		segundaConta.titular = "Adriano";
+		System.out.println("Endereço de mémoria: " + segundaConta);
+		System.out.println("Titular: " + segundaConta.titular);
+		System.out.println("Agência: " + segundaConta.agencia);
+		System.out.println("Numero: " + segundaConta.numero);
+		System.out.println("Saldo: " + segundaConta.saldo);
+	}
+
+}

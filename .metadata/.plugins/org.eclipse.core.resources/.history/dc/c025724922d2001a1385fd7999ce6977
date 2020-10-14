@@ -1,0 +1,23 @@
+/*
+---------- Autor: Alexsandro Augusto Ignácio 
+---------- Data: 30/07/2020
+---------- Versão 0.1
+*/
+
+import java.util.Scanner;
+
+public class TestaMes {
+	public static void main(String[] args) {
+		
+		Scanner input = new Scanner(System.in);
+		
+		int mes;
+
+		System.out.println("Escolha um mês do relatório");
+		mes = input.nextInt();
+		
+		
+		
+	}
+
+}
