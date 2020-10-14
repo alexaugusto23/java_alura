@@ -27,10 +27,8 @@ public class CriaConta {
 			System.out.println("mesma conta");
 		}
 		else {
-			System.out.println("contas diferentes");	
+			System.out.println("Outra conta");	
 		}
-		System.out.println("primeira conta: " + primeiraConta);
-		System.out.println("segunda conta : " + segundaConta);
 	}
 
 }
