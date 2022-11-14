@@ -79,8 +79,16 @@ public class Programa {
 
 type Programa.java
 
-o comando javac compila o código fonte do arquivo .java que gera um arquivo .class que é interpretado pela jvm.
+o comando javac compila o código fonte do arquivo .java que gera um arquivo .class -> Bytecode que é interpretado pela jvm.
 
-Para executar o programa digitar o comando java + a classe no diretório onde contém o arquivo .class: java Programa
+Para executar o programa basta digitar o comando java mais a classe no diretório onde contém o arquivo .class exemplo: java Programa
 
 result = ola mundo
+
+IDE´s para java:
+
+* NetBeans
+* IntelliJ 
+* Eclipse
+
+Palavras chaves no java são mínusculas.
