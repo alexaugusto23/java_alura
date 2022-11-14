@@ -67,3 +67,20 @@ instalando no windows:
 https://www.oracle.com/java/technologies/downloads/#jdk17-windows
 
 Depois de instalado salvar a variável de ambiente para execussão: C:\Program Files\Java\jdk1.8.0_261\bin
+
+
+o comando type exibe o contéudo do arquivo, similar ao cat do linux.
+
+public class Programa {
+        public static void main(String[]args) {
+                System.out.println("Ola mundo");
+        }
+}
+
+type Programa.java
+
+o comando javac compila o código fonte do arquivo .java que gera um arquivo .class que é interpretado pela jvm.
+
+Para executar o programa digitar o comando java + a classe no diretório onde contém o arquivo .class: java Programa
+
+result = ola mundo
