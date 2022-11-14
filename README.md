@@ -42,3 +42,28 @@ __Por: Alexsandro Augusto Ignácio e instrutor | Alura
 * Encapsulamento e visibilidade
 * Construtores e membros estáticos
 
+--------------------------------------
+
+JVM (Java Virtual Machine)
+JDK - Java Development Kits - Compilador
+JRE - Java Runtime Environment - Máquina Virtual
+
+CMD udar o comando:
+* java roda a máquina virtual e traz o príncipais comandos ex -version.
+* javac compila o código fonte.
+
+javac -version
+java -version
+
+instalando no linux:
+
+sudo apt update
+sudo apt install openjdk-17-jdk
+sudo update-alternatives --config java
+export JAVA_HOME=/usr/lib/jvm/java-17-openjdk-amd64/bin
+
+instalando no windows:
+
+https://www.oracle.com/java/technologies/downloads/#jdk17-windows
+
+Depois de instalado salvar a variável de ambiente para execussão: C:\Program Files\Java\jdk1.8.0_261\bin
