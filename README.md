@@ -92,3 +92,7 @@ IDE´s para java:
 * Eclipse
 
 Palavras chaves no java são mínusculas.
+
+Padrão de Escrita CamelCase exemplo: ProgramaSoma
+
+Comando print não pula linha, mas o println sim!
